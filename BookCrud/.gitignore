@@ -1,0 +1,13 @@
+HELP.md
+/target/
+.mvn/
+/src/main/resources/application.properties
+/src/test/
+/src/main/java/com/example/BookCrid/service/BookService.java
+/src/main/java/com/example/BookCrid/controller/BookController.java
+mvnw.cmd
+mvnw
+/bin/
+.project
+.classpath
+.settings
